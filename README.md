@@ -4,13 +4,7 @@ Bir oyun şirketi müşterilerinin bazı özelliklerini kullanarak seviye tabanl
 
 Örneğin: Türkiye’den IOS kullanıcısı olan 25 yaşındaki bir erkek kullanıcının ortalama ne kadar kazandırabileceği belirlenmek isteniyor.
 
-#Veri Seti Hikayesi
+Veri Seti Hikayesi:
 Persona.csv veri seti uluslararası bir oyun şirketinin sattığı ürünlerin fiyatlarını ve bu ürünleri satın alan kullanıcıların bazı
 demografik bilgilerini barındırmaktadır. Veri seti her satış işleminde oluşan kayıtlardan meydana gelmektedir. Bunun anlamı tablo
 tekilleştirilmemiştir. Diğer bir ifade ile belirli demografik özelliklere sahip bir kullanıcı birden fazla alışveriş yapmış olabilir.
-
-#Price: Müşterinin harcama tutarı
-#Source: Müşterinin bağlandığı cihaz türü
-#Sex: Müşterinin cinsiyeti
-#Country: Müşterinin ülkesi
-#Age: Müşterinin yaşı
